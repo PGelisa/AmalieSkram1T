@@ -1,0 +1,9 @@
+Planet,Avstand,Omløpstid
+Merkur,0.579,0.241
+Venus,0.108,0.615
+Jorda,0.150,1
+Mars,0.228,1.88
+Jupiter,0.778,11.9
+Saturn,1.43,29.5
+Uranus,2.87,84.1
+Neptun,4.50,162
